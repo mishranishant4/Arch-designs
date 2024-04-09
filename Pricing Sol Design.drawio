@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T23:48:51.683Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="uCXY3vq6COZS6K9Mr_fJ" version="24.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-09T23:53:40.465Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="mrmg2mjrEC_j6XVW5Vf1" version="24.2.3" type="github" pages="2">
   <diagram name="Objective Design" id="Tbk4IP9_46neTQWiwS_g">
     <mxGraphModel dx="934" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -42,6 +42,18 @@
           <mxGeometry x="0.4962" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iw95G-HQTukIpxeOO9KI-13" value="New Pricing Calculation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="230" width="370" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iw95G-HQTukIpxeOO9KI-14" value="Reduce Costs&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="270" width="40" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iw95G-HQTukIpxeOO9KI-15" value="Faster Time to Market" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="270" width="40" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iw95G-HQTukIpxeOO9KI-16" value="- Product for cloud&lt;div&gt;- No dependency on development team once deployed&lt;/div&gt;&lt;div&gt;- Restructure data&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="270" width="365" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
