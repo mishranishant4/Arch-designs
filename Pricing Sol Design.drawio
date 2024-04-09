@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T23:46:56.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="9pUo2fztCaHaa7NdLwEV" version="24.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-09T23:48:51.683Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="uCXY3vq6COZS6K9Mr_fJ" version="24.2.3" type="github" pages="2">
   <diagram name="Objective Design" id="Tbk4IP9_46neTQWiwS_g">
     <mxGraphModel dx="934" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -6,6 +6,42 @@
         <mxCell id="1" parent="0" />
         <mxCell id="4wKICt7usqroxkZolmB6-1" value="Simple Design is the motto. So that everyone can understand. It should not be complete, it should be simple." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="115" y="20" width="620" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iw95G-HQTukIpxeOO9KI-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="210" width="640" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="iw95G-HQTukIpxeOO9KI-2" value="Customers on WebPage" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iw95G-HQTukIpxeOO9KI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iw95G-HQTukIpxeOO9KI-3" target="iw95G-HQTukIpxeOO9KI-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iw95G-HQTukIpxeOO9KI-10" value="Process Invoices" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iw95G-HQTukIpxeOO9KI-8">
+          <mxGeometry x="0.1363" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iw95G-HQTukIpxeOO9KI-3" value="Order Management" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="396" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iw95G-HQTukIpxeOO9KI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iw95G-HQTukIpxeOO9KI-4" target="iw95G-HQTukIpxeOO9KI-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iw95G-HQTukIpxeOO9KI-11" value="Get Insights" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iw95G-HQTukIpxeOO9KI-9">
+          <mxGeometry x="-0.2692" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iw95G-HQTukIpxeOO9KI-4" value="Product Management" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iw95G-HQTukIpxeOO9KI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iw95G-HQTukIpxeOO9KI-2" target="iw95G-HQTukIpxeOO9KI-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iw95G-HQTukIpxeOO9KI-12" value="Purchase Cars" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iw95G-HQTukIpxeOO9KI-7">
+          <mxGeometry x="0.4962" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
