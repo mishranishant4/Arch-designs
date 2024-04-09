@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T23:43:05.392Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="TtqPsU0mcM4_EvoLQUZm" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T23:43:33.653Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="5YX_reSH3UHSXCBD2RTv" version="24.2.3" type="github">
   <diagram name="Page-1" id="Tbk4IP9_46neTQWiwS_g">
     <mxGraphModel dx="934" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -105,7 +105,7 @@
         <mxCell id="4wKICt7usqroxkZolmB6-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4wKICt7usqroxkZolmB6-35" target="4wKICt7usqroxkZolmB6-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4wKICt7usqroxkZolmB6-35" value="SNS" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="4wKICt7usqroxkZolmB6-35" value="SNS/Queue" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="390" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
